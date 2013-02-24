@@ -1,0 +1,8 @@
+main: net.thackbarth.minecraft.SpecialGive
+version: 1.2.4
+description: Only give some items!
+name: specialGive
+commands:
+  g:
+    description: Special Give Command
+    usage: /<command>

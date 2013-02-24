@@ -1,0 +1,23 @@
+specialGive is a Minecraft/Bukkit-Plugin that disables the /give command and
+adds a new command (/g) to give only a few items to a player. 
+
+Usage:
+/g <item>
+
+Possible Items:
+- axe 
+- bread
+- boots
+- chestplate
+- gold
+- helmet
+- hoe
+- iron
+- leggings
+- pickaxe
+- redstone
+- shovel
+- sword
+- tnt
+
+For more information you can visit my website: http://www.thackbarth.net/software/minecraft/specialgive
